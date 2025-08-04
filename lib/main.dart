@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mentals_health_app/pages/weather_page.dart';
+import 'package:weather_app/pages/weather_page.dart';
 
 void main() {
   runApp(const MyApp());
